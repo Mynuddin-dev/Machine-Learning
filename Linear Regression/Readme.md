@@ -1,1 +1,2 @@
-[A comprehensive beginners guide for Linear, Ridge and Lasso Regression in Python and R](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/?utm_source=blog&utm_medium=what-is-multicollinearity)
+- [A comprehensive beginners guide for Linear, Ridge and Lasso Regression in Python and R](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/?utm_source=blog&utm_medium=what-is-multicollinearity)
+- [Fundamentals of Regression Short course](https://courses.analyticsvidhya.com/courses/Fundamentals-of-Regression-Analysis?utm_source=blog&utm_medium=what-is-multicollinearity)
