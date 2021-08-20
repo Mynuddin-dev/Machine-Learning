@@ -7,7 +7,7 @@
 - [Data Preparation and Feature Engineering for Machine Learning](https://developers.google.com/machine-learning/data-prep)
 
 ## Best Blogs
-- Kaggel : https://www.kaggle.com/
+- Kaggle : https://www.kaggle.com/
 - Analaticsvidhya : https://www.analyticsvidhya.com/learn
 - TowardsdataScience : https://towardsdatascience.com/
 -  Medium : https://medium.com/topic/data-science
