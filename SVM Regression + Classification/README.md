@@ -1,0 +1,1 @@
+Support Vector Machine(SVM) A Complete guide for beginners : [SVM Analytics vidhya](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/#:~:text=We%20all%20know%20the%20equation,and%20b%20is%20an%20offset.&text=If%20the%20value%20of%20w,it%20is%20a%20negative%20point.)
