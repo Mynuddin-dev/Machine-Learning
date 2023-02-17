@@ -1,0 +1,2 @@
+- [K-Means Clustering best understanding](https://www.gatevidyalay.com/k-means-clustering-algorithm-example/)
+- [Hierarchical Clustering best understanding](https://www.saedsayad.com/clustering_hierarchical.htm#:~:text=Hierarchical%20clustering%20involves%20creating%20clusters,hierarchical%20clustering%2C%20Divisive%20and%20Agglomerative)
